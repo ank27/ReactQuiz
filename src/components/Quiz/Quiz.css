@@ -1,0 +1,97 @@
+.content-area {
+  background-color: #e2e2e2;
+  height: 1000px;
+  width: 100%;
+  padding-top: 100px;
+  padding-left: 400px;
+}
+
+.content{
+  width: auto;
+  height: 100%;
+  position: absolute;
+  margin: auto;
+}
+
+.card_grid{
+  position: absolute;
+  height: auto;;
+  width: auto;
+  margin: auto;
+}
+
+.count_div{
+  padding-left: 20px;
+  padding-top: 30px;
+}
+
+.button-div{
+  padding-left: 20px;
+  padding-bottom: 30px;
+}
+
+.multiple_div{
+  padding-bottom: 20px;
+  font-family: Roboto, sans-serif;
+  font-size: 24px;
+}
+
+.div_question{
+  padding-left: 20px;
+  font-family: Roboto, sans-serif;
+  font-size: 30px;
+  padding-bottom:20px;
+}
+
+.div_score{
+  text-align: center;
+  font-size: 16px;
+  margin: 8px;
+}
+
+.timer_widget{
+  float: right;
+  width: 200px;
+}
+
+.question-area{
+  float: left;
+  width: 193px;
+}
+
+.coading-area{
+  float: left;
+  background: #ffffff;
+  overflow: auto;
+  margin: 10px;
+  padding: 20px;
+  position: relative;
+}
+
+.timer-area{
+  float: right;
+  width: 193px;
+}
+
+.widget-block {
+    padding: 40px 10px;
+    position: relative;
+    border-bottom: 1px solid #666666;
+}
+
+.text-center{
+  text-align: center;
+}
+
+.time_remaining{
+  font-size: 34px;
+  color: #c0c0c0;
+  font-weight: 500;
+  display: block;
+  margin-bottom: 15px;
+  line-height: 34px;
+}
+
+.pending-attempt{
+
+}

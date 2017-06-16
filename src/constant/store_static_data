@@ -1,0 +1,21 @@
+{
+  questions[
+  "question" :{
+    id:,
+    title:,
+    options:[]
+    isMultiple:
+    correct_choices []
+    category
+  }
+  ]
+  current_question : ,
+  user_answers{
+    {
+      question_id :
+      user_choice_id : []
+      skipped :
+      submitted:
+    }
+  }
+}

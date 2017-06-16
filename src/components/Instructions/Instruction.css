@@ -1,0 +1,31 @@
+.Instruction {
+  padding: 20px;
+}
+
+.headline_area{
+  text-align: center;
+}
+
+.format_text{
+  text-align:inherit;
+  margin-top: 50px;
+  margin-left: 300px;
+  flex: auto;
+  flex-direction: row;
+}
+
+.centered{
+  text-align: center;
+}
+
+.instruction-ul{
+  margin: 50px;
+  paddingBottom: 20px;
+	paddingTop: 20px;
+	lineHeight: 3px;
+  list-style: circle;
+}
+
+.btn_start_quiz{
+  text-align: center;
+}

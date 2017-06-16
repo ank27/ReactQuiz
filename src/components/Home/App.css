@@ -1,0 +1,83 @@
+.App-body {
+  background-color: #f4f4f4;
+  height: 550px;
+  padding: 25px;
+  color: white;
+  margin: 1px;
+}
+
+.start-button{
+  background-color: rgb(255, 255, 255);
+  color: rgba(0, 0, 0, 87);
+  font-family: Roboto, sans-serif;
+  min-width: 88px;
+  height: 36px;
+  text-align: center;
+  border: 10px;
+  box-sizing: border-box;
+  border-radius: 2px;
+  z-index: 1;
+  font-size: 13px;
+  margin-top: 20px;
+  margin-left: 50px;
+}
+
+.card_grid{
+  margin-top: 50px;
+}
+
+.heading1 {
+  color: rgba(0,0,0,.78);
+  font-size : 20px;
+  border-left : 5px solid #479fd9;
+  padding-left : 10px;
+  line-height : 40px;
+}
+
+.content-block{
+}
+
+.card_view{
+  display: inline-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.cat_card{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 20px;
+}
+
+.App-intro {
+  font-size: large;
+  background-color: #f4f4f4;
+  box-sizing: border-box;
+  padding: 20px 30px 20px 30px;
+  height : 300px;
+}
+
+.Footer{
+  display: flex;
+  height: 150px;
+  flex-direction: row;
+  color: white;
+  flex-wrap: wrap;
+  font-family: sans-serif;
+  font-size: 16px;
+  background-color: rgb(33, 33, 33);
+}
+
+.Footer-text{
+  color: rgba(255, 255, 255, 0.54);
+  max-width: 356px;
+  margin: auto;
+  font-size: 12px;
+}
+
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
